@@ -1,0 +1,16 @@
+patching file config.def.h
+Hunk #1 succeeded at 93 (offset 11 lines).
+Hunk #2 succeeded at 123 (offset 11 lines).
+Hunk #3 succeeded at 132 (offset 11 lines).
+patching file config.mk
+patching file st.h
+Hunk #1 succeeded at 124 (offset 4 lines).
+patching file x.c
+Hunk #1 succeeded at 106 (offset 8 lines).
+Hunk #2 succeeded at 245 (offset 15 lines).
+Hunk #3 succeeded at 742 (offset 52 lines).
+Hunk #4 succeeded at 802 (offset 52 lines).
+Hunk #5 succeeded at 1118 (offset 105 lines).
+Hunk #6 succeeded at 1144 (offset 105 lines).
+Hunk #7 succeeded at 1164 (offset 105 lines).
+Hunk #8 succeeded at 2025 (offset 114 lines).
